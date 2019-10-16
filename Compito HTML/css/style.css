@@ -1,0 +1,77 @@
+.first-div{
+	background-color:#FFFFCC;
+	margin:0;
+	width:50%;
+	height:700%;
+}
+
+.menu{
+	width:90%;
+	height:10%;
+}
+
+.bt{
+	border:0px;
+	background-color:black;
+	color:white;
+	width:102%;
+	height:50px;
+	font-size:140%;
+	font-style:arial;
+}
+
+.dimg{
+	background-color:black;
+	width:48%;
+	height:43%;
+}
+
+.img{
+	width:95%;
+	height:88%;
+	margin:0;
+}
+
+.scritta{
+	width:90%;
+}
+
+.testo{
+	font-size:140%;
+	text-align:center;
+	font-style:tahoma;
+}
+
+.last{
+	color:white;
+	background-color:blue;
+	text-align:left;
+	font-size:18px;
+	vertical-align:bottom;
+	width:98%;
+	height:30px;
+}
+
+.hidden{
+	color:#FFFFCC;
+}
+
+.dci{
+	font-size:24px;
+	width:100px;
+}
+
+.list{
+	width:100px;
+	color:gray;
+}
+
+button:hover{
+	background:black;
+	background-image: linear-gradient(to bottom, #FF6633, #CC3300);
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
